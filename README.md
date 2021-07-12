@@ -1,4 +1,4 @@
-# Sponserhip Portal Unation
+# Reaact Boilerplate: Eslint, webpack, Jest, dotenv, redux, redux-thunk, ErrorBoundryWrapper, Localization (react-intl)
 
 node = 14.*
 
